@@ -1,0 +1,23 @@
+body {
+  padding: 10px 50px;
+}
+.formdesign {
+  font-size: 20px;
+}
+.formdesign input {
+  width: 50%;
+  padding: 12px 20px;
+  border: 2px solid;
+  margin: 14px;
+  border-radius: 4px;
+  font-size: 15px;
+}
+.but {
+  padding: 5px 15px;
+  font-size: 18px;
+  cursor: pointer;
+}
+.formerror {
+  color: rgb(230, 0, 0);
+  font-size: 20px;
+}
